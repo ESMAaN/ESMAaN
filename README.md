@@ -23,3 +23,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esmaan&" alt="esmaan" /></p>
 
+<img alt="top lang" align="left" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaan&layout=compact"/>
+
+<img align="left" width="32%" src="https://github-readme-stats.vercel.app/api?username=esmaan&show_icons=true&locale=en" alt="esmaan"/>
+
+<img align="left" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=esmaan&" alt="esmaan"/>
+
